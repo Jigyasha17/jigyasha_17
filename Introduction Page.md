@@ -12,7 +12,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1PIZ6_X5VpKoI6367rCiDZ84DIpL8noIH/view?usp=drivesdk](https://drive.google.com/file/d/1PIZ6_X5VpKoI6367rCiDZ84DIpL8noIH/view?usp=drivesdk)
 
-- ### 🛠️ Skills & Technologies
+- ### 🛠️ Skills
 
 [ ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ](https://www.python.org/)
 [ ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-276DC3?style=for-the-badge&logo=PotgreSQL&logoColor=white) ](https://https://www.bing.com/copilotsearch?q=postgresql&FORM=CSSCOP/)
