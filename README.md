@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Jigyasa Pandey</h1>
 <h3 align="center">Aspiring Data Analyst - Eager to Learn & Contribute</h3>
+ 
+ 
+ - 🌱 I’m currently learning **Data Analysis**
 
+- 👯 I’m looking to collaborate on **Data Analysis Projects**
 
-
-- 🌱 I’m currently learning **data analysis**
-
-- 👯 I’m looking to collaborate on **data analyst projects**
-
-- 🤝 I’m looking for help with **data visualization**
+- 🤝 I’m looking for help with **Machine learning**
 
 - 📫 How to reach me **jigyashapandey2017@gmail.com**
 
@@ -16,9 +15,9 @@
 - ### 🛠️ Skills & Technologies
 
 [ ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ](https://www.python.org/)
-[ ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) ](https://www.r-project.org/)
+[ ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-276DC3?style=for-the-badge&logo=PotgreSQL&logoColor=white) ](https://https://www.bing.com/copilotsearch?q=postgresql&FORM=CSSCOP/)
 [ ![SQL](https://img.shields.io/badge/SQL-FFFFFF?style=for-the-badge&logo=sql&logoColor=22292F) ](https://www.postgresql.org/)
-[ ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) ](https://www.tableau.com/)
+[ ![Chartbrew](https://img.shields.io/badge/Chartbrew-E97627?style=for-the-badge&logo=chartbrew&logoColor=white) ](https://www.chartbrew.com/)
 [ ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ](https://powerbi.microsoft.com/)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -26,6 +25,3 @@
 <a href="https://instagram.com/jigyasha_17_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jigyasha_17_" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jigyasha17&show_icons=true&locale=en&layout=compact" alt="jigyasha17" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jigyasha17&show_icons=true&locale=en" alt="jigyasha17" /></p>
